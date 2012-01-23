@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="controllers"/>
+	<buildpathentry kind="src" path="lib"/>
+	<buildpathentry kind="src" path="models"/>
+	<buildpathentry kind="src" path="public"/>
+	<buildpathentry kind="src" path="tests"/>
+	<buildpathentry kind="src" path="views"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

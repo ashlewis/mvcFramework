@@ -1,0 +1,2 @@
+# ignore config settings (environment specific)
+lib/config.php
