@@ -1,2 +1,5 @@
 # ignore config settings (environment specific)
 lib/config.php
+.settings/*
+.project
+.buildpath
